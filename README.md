@@ -1,4 +1,4 @@
 # HackShashtra---Demo
 This is my first Git Repository
 <br>
-Author - Ashish Singh
+Author - Ashish Singh (HackShashtra)
